@@ -1,5 +1,5 @@
 /* Fit Coach — service worker. Aumenta VERSION a ogni aggiornamento dell'app. */
-const VERSION = "fitcoach-v1";
+const VERSION = "fitcoach-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest",
   "icons/icon-192.png", "icons/icon-512.png", "icons/maskable-512.png", "icons/apple-touch-icon.png",
   "img/avatar-160.png", "img/avatar.png", "piani/losavio-7giorni.json", "ex/index.json",
